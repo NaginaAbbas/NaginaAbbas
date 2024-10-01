@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nagina Abbad</h1>
+<h1 align="center">Hi 👋, I'm Nagina Abbas</h1>
 <h3 align="center">A passionate data analyst and machine learning engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naginaabbas&label=Profile%20views&color=0e75b6&style=flat" alt="naginaabbas" /> </p>
